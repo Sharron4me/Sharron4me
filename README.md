@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <html>
   <div class=''>
-    <img src='images\logo.png'>
+    <img src='images\default.png'>
   </div>
 </html>
