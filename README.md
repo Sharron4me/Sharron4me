@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+### Hi there 👋<!--
 **Sharron4me/Sharron4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Imgur](https://imgur.com/CADEOLq)
 <html>
   <div class=''>
     <img src='https://i.imgur.com/CADEOLq.png'>
