@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <html>
   <div class=''>
-    <img src='images\default.png'>
+    <img src='https://i.imgur.com/CADEOLq.png'>
   </div>
 </html>
